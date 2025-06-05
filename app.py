@@ -12,7 +12,7 @@ dotenv_path = os.path.join(
 )  # Navigate one level up to ai-portfolio
 load_dotenv(dotenv_path=dotenv_path)
 
-API_TOKEN = os.getenv("HUGGING_FACE_API_TOKEN")
+API_TOKEN = os.getenv("HF_TOKEN")
 
 # Define the model API URL
 # Model suggestion from the plan: facebook/bart-large-mnli
