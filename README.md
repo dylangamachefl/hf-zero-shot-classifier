@@ -10,11 +10,10 @@ pinned: false
 
 # 🎯 Zero-Shot Text Classifier
 
-An interactive web application that classifies input text into user-defined categories using Hugging Face's zero-shot classification models via the Inference API. This project is part of a 4-week AI project portfolio building challenge.
+An interactive web application that classifies input text into user-defined categories using Hugging Face's zero-shot classification models via the Inference API. 
 
-**Live Demo:** [Link to your Deployed App on Hugging Face Spaces]
-
-**Project Repository:** `https://github.com/dylangamachefl/hf-zero-shot-classifier`
+**Live Demo:** [HF Zero-Shot Text Classifier](https://dylangamachefl-hf-zero-shot-classifier.hf.space)
+**Repo:** [GitHub - hf-zero-shot-classifier](https://github.com/dylangamachefl/hf-zero-shot-classifier)
 
 ## 📖 Overview
 
@@ -126,11 +125,8 @@ To run this project locally, follow these steps:
     The application should open in your web browser.
 
 ## 🖼️ Screenshot
+![Screenshot 2025-06-25 at 13-44-48 Zero-Shot Text Classifier](https://github.com/user-attachments/assets/c5c4ed6b-1a44-4ccf-b8b5-2e4310178a9d)
 
-<!-- Add your screenshot here -->
-![Application Screenshot](images/zero-shot-classifier-screenshot.png) 
-<!-- Make sure to create an 'images' folder and add your screenshot, 
-     or adjust the path if it's different. -->
 
 ## 🔮 Future Enhancements (Optional)
 
