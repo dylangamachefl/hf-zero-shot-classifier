@@ -13,6 +13,7 @@ pinned: false
 An interactive web application that classifies input text into user-defined categories using Hugging Face's zero-shot classification models via the Inference API. 
 
 **Live Demo:** [HF Zero-Shot Text Classifier](https://dylangamachefl-hf-zero-shot-classifier.hf.space)
+
 **Repo:** [GitHub - hf-zero-shot-classifier](https://github.com/dylangamachefl/hf-zero-shot-classifier)
 
 ## 📖 Overview
